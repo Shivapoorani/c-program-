@@ -19,3 +19,5 @@ max num b/w 2no using pointer
 print element in pointer
 length of the string using pointer
 largest number using dynamic memory allocation
+swap number using call by reference
+factorial using pointer
