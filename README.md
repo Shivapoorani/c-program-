@@ -21,3 +21,7 @@ length of the string using pointer
 largest number using dynamic memory allocation
 swap number using call by reference
 factorial using pointer
+14/9/22
+n student in structure
+pointer student name
+book details using stucture as function arguments
