@@ -25,3 +25,8 @@ factorial using pointer
 n student in structure
 pointer student name
 book details using stucture as function arguments
+union student mark
+add complex number
+student percentage
+subraction of complex number
+multiplication of comlex number
